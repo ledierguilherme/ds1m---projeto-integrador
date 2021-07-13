@@ -1,0 +1,117 @@
+*{  
+    margin: 0%;
+    padding: 0%;
+    box-sizing: 0%;
+  }
+
+  .FPOO {
+      background-color: rgba(105, 112, 209, 0.699);
+      font-family: Arial, Helvetica, sans-serif;
+      width: 201vh;
+      height: 25vw;
+  }
+
+  .Imagem1FPOO {
+    position: relative;
+    padding-left: 150px;
+  }
+
+  .FPOOsessão1 {
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    grid-template-columns: 1fr 1fr;
+    padding-left: 100px;
+  }
+
+  h2{
+    text-align: center;
+    font-size: 60px;
+    
+  }
+
+  h3{
+    font-size: 30px;
+    margin-top: 50px;
+  }
+
+  .LIMA {
+    padding-left: 100px;
+    background-color: rgb(223, 236, 102);
+    font-family: Arial, Helvetica, sans-serif;
+   
+  }
+
+  .LIMAmidia{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+ 
+  }
+
+  .SOP{
+    background-color: rgba(233, 86, 225, 0.836);
+    padding-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+  }
+  
+
+  .SOPmidia{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 80px;
+
+  }
+
+  .hare-container{
+    padding-left: 90px;
+    background-color: rgb(49, 200, 238);
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+  }
+
+  .sessao1Hare{
+    display: flex;
+  }
+
+  .area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 140px;
+    height: 45;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(243, 73, 73);
+    border-radius: 2px;
+    text-decoration-line: none;
+    font-size: 20px;
+    color: whitesmoke;
+    list-style: none;
+  }
+
+  header{
+    background-color: rgb(4, 21, 117);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 250px;
+    padding-right: 250px;
+  }
+
+  .links ul {
+    display: flex;
+    gap: 50px;
+    list-style-type: none;
+  }
+
+  
+    
+
+  
+
